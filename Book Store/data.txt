@@ -1,0 +1,6 @@
+INSERT INTO `tbl_users` (`id`, `name`, `surname`, `email`, `password`) VALUES
+(6, 'hello', 'itsme', 'itsme@gmail.com', '$2y$10$W7Ij.LrV/kn5AUs4flc7SuIAMkZbmjyYm1HVyO8KR5mH8Weo90dSC'),
+(8, 'hello', 'itsme', 'fyliqy@tutuapp.bid', '$2y$10$8ML9jo0kl27BybkvBijKL.ozsQ.tMP0YWljPz.frgs1YeCGQ/DLpG'),
+(11, 'hello', 'itsme', 'work@gmail.com', '$2y$10$I//JPz0LS.dpXEo627o.sewrA.hTQOlz0wbgSPszQA1z2LF5xOQ/m'),
+(15, 'please', 'work', 'work', '$2y$10$Pe4wZvW22HKxTCHm0HSjZeB.lhR1jfTp/jPOprdg5CLLZDIo6VPjC'),
+(16, 'anza', 'itsme', 'dell@gmail.com', '$2y$10$Rcl2ky.z8oAPpkZ4VoGdKuUyjsI5rB853WsWZumdmRAb4BBPRuQ.G');
